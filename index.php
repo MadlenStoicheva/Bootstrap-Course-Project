@@ -270,17 +270,17 @@
 	  	<hr class="hr-line">
 	  	<div class="row d-flex flex-wrap justify-content-center">
 		  	<div class="m-5 img-learn-container2">
-		  		<img class="s-learn rounded-circle shadow-lg rounded" src="img/circle_1.png">
+		  		<img class="s-learn rounded-circle shadow-lg rounded w-100" src="img\circle_1.jpg">
 		  		<p class="title">Basics</p>
 			    <div class="overlay rounded-circle"></div>
 		  	</div>
 		  	<div class="m-5 img-learn-container1">
-		  		<img class="s-learn rounded-circle shadow-lg rounded" src="img/circle_2.png">
+		  		<img class="s-learn rounded-circle shadow-lg rounded w-100" src="img\circle_2.jpg">
 		  		<p class="title">Styles</p>
 			  <div class="overlay rounded-circle"></div>
 		  	</div>
 		  	<div class="m-5 img-learn-container">
-			  <img class="s-learn rounded-circle shadow-lg rounded" src="img/circle_3.png" alt="" />
+			  <img class="s-learn rounded-circle shadow-lg rounded w-100" src="img\circle3.png" alt="" />
 			  <p class="title">Layout</p>
 			  <div class="overlay rounded-circle"></div>
 		  	</div>
